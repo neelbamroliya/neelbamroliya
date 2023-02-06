@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/neel_bamroliya" target="blank"><img src="https://img.shields.io/twitter/follow/neel_bamroliya?logo=twitter&style=for-the-badge" alt="neel_bamroliya" /></a> </p>
 
-- 🌱 I’m currently learning **MERN,API calling,Photoshop**
+- 🌱 I’m currently learning **MERN,Typescript,Nest.js,Next.js,Databases,and much more**
 
 - 💬 Ask me about **React, Node, JavaScript**
 
